@@ -1,0 +1,8 @@
+[
+  {"id": "69cb68b5d19127748d5c6c65", "name": "Food", "icon": "UtensilsCrossed", "sort_order": 1, "is_active": true},
+  {"id": "69cb68b5d19127748d5c6c66", "name": "Grocery", "icon": "ShoppingBasket", "sort_order": 2, "is_active": true},
+  {"id": "69cb68b5d19127748d5c6c67", "name": "Health", "icon": "Heart", "sort_order": 3, "is_active": true},
+  {"id": "69cb68b5d19127748d5c6c68", "name": "Electronics", "icon": "Smartphone", "sort_order": 4, "is_active": true},
+  {"id": "69cb68b5d19127748d5c6c69", "name": "Fashion", "icon": "Shirt", "sort_order": 5, "is_active": true},
+  {"id": "69cb68b5d19127748d5c6c6a", "name": "Essentials", "icon": "Sparkles", "sort_order": 6, "is_active": true}
+]
