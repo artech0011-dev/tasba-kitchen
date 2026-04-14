@@ -22,4 +22,4 @@ This repository contains the exported data from the Tasba's Kitchen gethub app.
 ## Files
 - `categories.json` — All product categories
 - `products.json` — All products with prices, ratings, and image URLs
-
+ 
