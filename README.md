@@ -4,7 +4,7 @@ Your local marketplace for groceries, essentials, and fresh food, delivered to y
 
 ## App Data
 
-This repository contains the exported data from the Tasba's Kitchen Base44 app.
+This repository contains the exported data from the Tasba's Kitchen gethub app.
 
 ### Categories
 - Food
@@ -23,5 +23,3 @@ This repository contains the exported data from the Tasba's Kitchen Base44 app.
 - `categories.json` — All product categories
 - `products.json` — All products with prices, ratings, and image URLs
 
-## Built with Base44
-This app was built on [Base44](https://base44.com) — an AI-powered app building platform.
